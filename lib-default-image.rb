@@ -4,7 +4,6 @@ require 'pry'
 module Faker
   class Image < Base
     class << self
-      #
       # Images are from google , not for commercial use.
       #
       ##
